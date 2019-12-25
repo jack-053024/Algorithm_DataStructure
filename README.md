@@ -1,6 +1,8 @@
 # Algorithm_DataStructure
 Life-long learning. Specialize in algorithms and data structures and record them. Including notes and code written in Python.
 
+**Read notes before code.**
+
 * single-list, doubly-linked-list, single-loop linked-list
 * stack
 * queue, deque
